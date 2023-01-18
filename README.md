@@ -1,4 +1,4 @@
-# Calender-Parsing
+# Calendar-Parsing
 This was the first project of the Languages \& Compilers course written in Haskell.
 
 We will end up building a parser (and a few so-called “semantic functions”) for files in (a simplified version of) the iCalendar format, a calendar exchange format. See for instance Wikipedia at http: //en.wikipedia.org/wiki/ICalendar for an informal explanation of the format.
